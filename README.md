@@ -1,21 +1,18 @@
-<h1 align="center">Hi 👋, I'm İlknur Tüel</h1>
-<h3 align="center">A passionate student in mathematics and programming from Türkiye</h3>
+# 💫 About Me:
+👩‍💻Mathematics student sharing about my journey and learnings in tech<br/>📚Studying Math at Ege University, İzmir,Türkiye<br/>🌱 I’m currently learning Python, SQL and SPSS
 
-- 🌱 I’m currently learning **Python, SQL and SPSS**
 
-- 📫 How to reach me **tuelilknur@gmail.com**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ilknurrtuel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ilknur-tuel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tuelilknur@gmail.com) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ilknur-tüel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilknur-tüel" height="30" width="40" /></a>
-<a href="https://instagram.com/ilknurrtuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilknurrtuel" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=IlknurTuell&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=IlknurTuell&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IlknurTuell&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=IlknurTuell&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilknurtuell&show_icons=true&locale=en&layout=compact" alt="ilknurtuell" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilknurtuell&show_icons=true&locale=en" alt="ilknurtuell" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilknurtuell&" alt="ilknurtuell" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
